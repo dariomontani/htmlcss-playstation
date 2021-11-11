@@ -8,10 +8,16 @@ header{
 }
 
 header .sony-logo{
-    width: 15%;
+    width: 10%;
 }
 
 .my-dropdown{
     width: 100vw;
 }
+
+.my-lens{
+    width: 1.5em;
+}
+
+
 /* /header */
