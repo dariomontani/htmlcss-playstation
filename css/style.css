@@ -1,0 +1,17 @@
+body{
+    font-family: Helvetica, arial, sans-serif;
+}
+
+/* header */
+header{
+    background-color: black;
+}
+
+header .sony-logo{
+    width: 15%;
+}
+
+.my-dropdown{
+    width: 100vw;
+}
+/* /header */
