@@ -100,7 +100,18 @@ main .container img{
 /* nuovi sconti */
 /* /nuovi sconti */
 
+/* ps now */
+.ps-now{
+    background-color: #161c3b;
+    color: white;
+}
 
+.ps-now .btn-outline-primary {
+    color: black;
+    border-color: white;
+    background-color: white;
+}
+/* /ps now */
 
 
 /* /main */
