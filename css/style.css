@@ -118,6 +118,26 @@ main .container img{
 
 /* /main */
 
+/* footer */
+footer{
+    background-color: #00439c;
+    color: white;
+}
+/* footer top */
+footer .footer-top .globe{
+    width: 1rem;
+
+}
+/* /footer top */
+
+/* footer bottom */
+.sie-logo{
+    width: 10rem;
+}
+/* /footer bottom */
+
+/* /footer */
+
 @media screen and (max-width:767px){
     .ps-plus-img{
         display: none;
