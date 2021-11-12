@@ -47,4 +47,16 @@ main .container img{
     border-radius: 20px;
 }
 /* /cards-under-jumbotron */
+/* has-no-limits */
+.blue-word{
+    color: #2d64e6;
+}
+.gray-word{
+    color: #747474;
+}
+
+.has-no-limits span{
+    font-size: small;
+}
+/* /has-no-limits */
 /* /main */
