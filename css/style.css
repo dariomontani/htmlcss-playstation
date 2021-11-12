@@ -60,4 +60,15 @@ main .container img{
     font-size: small;
 }
 /* /has-no-limits */
+/* banner-it-takes-two */
+.banner-it-takes-two{
+    width: 100%;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 650px;
+    color: white;
+}
+/* /banner-it-takes-two */
 /* /main */
