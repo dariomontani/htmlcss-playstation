@@ -41,6 +41,10 @@ main{
 main .container img{
     width: 18em;
 }
-
 /* /jumbotron */
+/* cards-under-jumbotron */
+.cards-under-jumbotron img{
+    border-radius: 20px;
+}
+/* /cards-under-jumbotron */
 /* /main */
