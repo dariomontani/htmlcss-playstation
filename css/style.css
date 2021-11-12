@@ -3,21 +3,18 @@ body{
 }
 
 /* header */
-header{
+/* header top */
+.header-top{
     background-color: black;
 }
 
 header .sony-logo{
     width: 10%;
 }
-
-.my-dropdown{
-    width: 100vw;
+/* /header top */
+/* header bottom */
+.header-bottom .dropdown-menu img{
+    width: 5em;
 }
-
-.my-lens{
-    width: 1.5em;
-}
-
-
+/* /header bottom */
 /* /header */
