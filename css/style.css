@@ -18,3 +18,29 @@ header .sony-logo{
 }
 /* /header bottom */
 /* /header */
+
+/* main */
+main{
+    margin-top: 100px;
+}
+/* jumbotron */
+.jumbotron{
+    width: 100%;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    color: white;
+}
+
+.col-5{
+    border: 1px solid red;
+}
+
+main .container img{
+    width: 18em;
+}
+
+/* /jumbotron */
+/* /main */
